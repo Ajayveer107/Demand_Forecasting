@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+tabulate
+statsmodels
+prophet
+xgboost
+tensorflow   # Keras LSTM; any model whose library is missing is skipped automatically
